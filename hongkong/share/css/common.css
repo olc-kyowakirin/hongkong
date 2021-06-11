@@ -5113,7 +5113,7 @@ div#message-president .box-image{
 .box-corevalue-top .box-corevalue-wrapper > .box-inner {
   position: relative;
   height: 100%;
-  top:-100px;
+  top:120px;
 }
 @media only screen and (max-width: 768px) {
   .box-corevalue-top .box-corevalue-wrapper > .box-inner {
