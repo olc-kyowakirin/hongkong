@@ -468,7 +468,8 @@ template {
   padding-bottom: 60px;
 }
 
-.str-section-wrapper.homepage-03 .text-lead{
+.str-section-wrapper.homepage-03 .text-lead,
+.str-section-wrapper.homepage-04 .text-lead{
   padding-bottom: 30px;
 }
 .str-section-wrapper.homepage-03 .tile .box-image{
@@ -6151,6 +6152,7 @@ xx.js-enable .box-offices-globalarea .box-panel {
 
 
 .homepage-03 .area-focus-inner .title,
+.homepage-04 .area-focus-inner .title,
 .workingwithus-01 .area-focus-wrapper .title {
   font-size: 1.6rem;
   font-weight: 600;
@@ -11132,10 +11134,7 @@ xx.js-enable .box-offices-globalarea .box-panel {
     text-align: center;
     padding-bottom:50px;
 }
-.str-section-wrapper.homepage-04 .tile{
-    margin-top: 20px !important;
-    margin-bottom: 0px !important;
-}
+
 .box-movie-thumb.box-movie-spe:before,
 .box-movie-thumb.box-movie-spe:after{
     display:none;

@@ -34,16 +34,17 @@
 <!-- /.str-section --></div>
 <!-- /.str-section-wrapper --></div>
 
-<div class="str-section-wrapper str-section-grey-bg homepage-04">
+<div class="str-section-wrapper str-section-grey-bg">
 <div class="str-section str-section-boxed-800px">
 <div class="box-get-to-know-us">
 <div class="box-hdg2-wrapper" id="anc-get-to-know">
-<h2 class="hdg-lv2-03">Get to Know Us</h2>
+<h1 class="hdg-lv2-02">Get to Know Us</h1>
 <p class="text-lead">For the health and well-being of people around the world.</p>
+<br/>
 <a id="anc-message-from-general-manager" href="#modal-message" class="kkc-anime_scroll_common_fade-in btn-modalopen parts-feature parts-commitment kkc-anime_state_show kkc-anime_state_animation-end">
 <div class="tile size-l box-movie-modal-wrapper kkc-anime_scroll_common_fade-in-bottom">
 <div class="box-content box-movie-thumb box-movie-spe">
-<p class="title"><span>General Manager’s Message<span class="icon icon-blank">move to page</span></span></p>
+<p class="title"><span>General Manager’s Message<span class="icon icon-modal">open</span></span></p>
 <!-- /.box-content --></div>
 <div class="box-image">
 <img src="images/index_img_gm_message_01.jpg" alt="Get to Know Us">
@@ -60,17 +61,17 @@
 <div class="box-tab-content" style="display: block;">
 <p class="title">Message from the General Manager</p>
 <div class="box-text">
-  <p>"Welcome to our new Kyowa Kirin Hong Kong website.</p>
-  <p>Through this website, we will provide you information about our philosophy, core values, and most importantly, our focus on science.</p>
-  <p>Kyowa Kirin Hong Kong Co., Limited is one of the subsidiary companies of Kyowa Kirin Asia Pacific Pte Ltd.  under the Kirin Holdings Company Limited in Japan. Since our establishment in 1993, our therapeutic focus areas have been on Nephrology, Oncology, Immunology & Allergy, and Central Nervous System.</p>
-  <p>Kyowa Kirin Hong Kong is striving to contribute to the health and well-being of people in Hong Kong and Macau by creating new value through the pursuit of advancement in life sciences and technologies. Our vision is to become an indispensable specialized pharmaceutical company by bringing patients hope and smile to life.</p>
-  <p>If you have any enquiries, please feel free to contact us. Your suggestions, ideas, and thoughts are important to us.</p>
+  <p>Welcome to our new Kyowa Kirin Hong Kong website.</p><br/>
+  <p>Through this website, we will provide you information about our philosophy, core values, and most importantly, our focus on science.</p><br/>
+  <p>Kyowa Kirin Hong Kong Co., Limited is one of the subsidiary companies of Kyowa Kirin Asia Pacific Pte Ltd.  under the Kirin Holdings Company Limited in Japan. Since our establishment in 1993, our therapeutic focus areas have been on Nephrology, Oncology, Immunology & Allergy, and Central Nervous System.</p><br/>
+  <p>Kyowa Kirin Hong Kong is striving to contribute to the health and well-being of people in Hong Kong and Macau by creating new value through the pursuit of advancement in life sciences and technologies. Our vision is to become an indispensable specialized pharmaceutical company by bringing patients hope and smile to life.</p><br/>
+  <p>If you have any enquiries, please feel free to contact us. Your suggestions, ideas, and thoughts are important to us.</p><br/>
   <p>We look forward to hearing from you soon.</p>
 </div>
 <div class="box-text">
 <p>Best Regards</p>
 <p>Alvin Yum</p>
-<p>General Manager, Kyowa Kirin Hong Kong"</p>
+<p>General Manager, Kyowa Kirin Hong Kong</p>
 <!-- /.box-text --></div>
 <!-- /.box-tab-content --></div>
 <!-- /.box-tab-01 --></div>
@@ -177,7 +178,7 @@
 <!-- /.box-modal-content --></div>
 <!-- /.box-corevalue-top --></div>
 <br/><br/>
-<div class="str-section-wrapper homepage-03">
+<div class="str-section-wrapper homepage-04 olc-button-section">
 <div class="str-section str-section-boxed">
 <div class="box-hdg2-wrapper" id="anc-area-of-focus">
 <h2 class="hdg-lv2-02">Areas of Focus</h2>
@@ -185,15 +186,10 @@
   <p class="title">Cutting-edge biotechnology centred on antibody engineering technology</p><br/>
 <!-- /.area-focus-inner --></div>
 <p class="text-lead">We are committed towards our patient health and their well-being through innovative drug discovery and global commercialisation, driven by state-of-the-art antibody technologies, in the core therapeutic areas of: Nephrology, Oncology, Immunology & Allergy, and Central Nervous System.</p>
+<br/><br/>
+<a href="#/hongkong/therapeutic_areas/index.html" class="btn-olc-small-size btn-orange-grey"><span>Discover our therapeutic areas</span></a>
 <!-- /.box-hdg2-wrapper --></div>
 <!-- /.str-section --></div>
 <!-- /.str-section-wrapper --></div>
 
-<div class="str-section-wrapper olc-button-section about-us-5">
-<div class="box-button-olc">
-<div class="box-hdg2-wrapper">
-<a href="#/hongkong/therapeutic_areas/index.html" class="btn-olc-small-size btn-orange-grey"><span>Discover our therapeutic areas</span></a>
-<!-- /.box-hdg2-wrapper --></div>
-<!-- /.box-about-us-button --></div>
-<!-- /.str-section-wrapper --></div>
 <partial src="includes/footer.html"/>
