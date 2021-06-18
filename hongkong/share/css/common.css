@@ -446,6 +446,13 @@ template {
   position: fixed;
 }
 
+.our-products-header{
+  background-image: url('/hongkong/images/index_bg_our_products_01.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: fixed;
+}
 .contact-us-header{
   background-image: url('/hongkong/images/index_bg_contact_us_01.jpg');
   background-size: cover;
@@ -11121,7 +11128,7 @@ xx.js-enable .box-offices-globalarea .box-panel {
       padding: 50px 0 30px 0 !important;
 }
 
-.str-section-wrapper.our-medicines-05 { margin-top:-50px; }
+.str-section-wrapper.our-products-05 { margin-top:-50px; }
 
 .str-section-wrapper .area-focus-wrapper {
     flex-wrap: wrap;
@@ -11218,8 +11225,8 @@ xx.js-enable .box-offices-globalarea .box-panel {
     width: 100%;
 }
 }
-.text-lead.text-left{
-  text-align:left;
+.text-left{
+  text-align:left !important;
 }
 .str-section-wrapper.about-us-4{
   padding: 50px 0 50px 0
@@ -11292,7 +11299,7 @@ footer .footer-area-sub {
 footer .footer-area-sub p.footer-copy {
   font-size:1.4rem;
 }
-.str-section-wrapper.our-medicines-05 {
+.str-section-wrapper.our-products-05 {
     padding-bottom: 40px;
 }
 

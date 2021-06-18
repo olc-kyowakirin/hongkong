@@ -1,0 +1,120 @@
+<partial src="../includes/header-start.html"/>
+<title>Our Products - Kyowa Kirin Hong Kong</title>
+<meta name="description" content="Kyowa Kirin has an advanced research and development system that displays innovation in drug discovery using cutting-edge biotechnology in antibody engineering technology. We use this technology across the four therapeutic areas of Nephrology, Oncology, Immunology & Allergy, and Central Nervous System.">
+<meta property="og:title" content="Our Products - Kyowa Kirin Hong Kong">
+<meta property="og:description" content="Kyowa Kirin has an advanced research and development system that displays innovation in drug discovery using cutting-edge biotechnology in antibody engineering technology. We use this technology across the four therapeutic areas of Nephrology, Oncology, Immunology & Allergy, and Central Nervous System.">
+<partial src="../includes/header-title.html"/>
+<link rel="canonical" href="https://www.kyowakirin.com/hongkong/our_products/index.html">
+<partial src="../includes/header-end.html"/>
+
+<div class="box-hdg-wrapper type-04 kkc-anime_load_other-mainvisual our-products-header">
+<div class="image">
+<img src="/hongkong/images/index_bg_mainsection_01.png" alt="">
+<!-- /.image --></div>
+<!-- /.image --></div>
+
+<div class="str-section-wrapper first-section our-products-01">
+<div class="str-section">
+<div class="box-hdg2-wrapper" id="our-products">
+<h1 class="hdg-lv2-02">Our Products</h1>
+<p class="text-lead">We strive to develop unique effective therapies for our patients within our areas of focus. We combine a unique balance between technology and innovation into our drug development and discovery. Our dedicated team of experts make important strides in understanding the patient needs in the areas of Nephrology, Oncology, Immunology & Allergy, and Central Nervous System.</p>
+<!-- /.box-hdg2-wrapper --></div>
+<!-- /.str-section --></div>
+<!-- /.str-section-wrapper --></div>
+<div class="str-section-wrapper our-products-08">
+<div class="str-section str-section-boxed-800px str-section-spacing">
+<div class="box-hdg2-wrapper">
+
+<div class="box-layout-image layout-left box-layout-image-post-list">
+<div class="box-content">
+<h3 class="hdg-lv2-05">CRYSVITA® (Burosumab)</h3>
+<div class="box-text">
+<p>CRYSVITA is indicated for the treatment of X-linked hypophosphatemia (XLH) in adult and pediatric patients 1 year of age and older.</p>
+<!-- /.box-text --></div>
+<!-- content --></div>
+<div class="box-image">
+<img src="images/index_img_logo_crysvita.jpg" alt="CRYSVITA®">
+<!-- image --></div>
+<!-- /.box-layout-image --></div>
+
+<div class="box-layout-image layout-left box-layout-image-post-list">
+<div class="box-content">
+<h3 class="hdg-lv2-05">LUMICEF® (Brodalumab)</h3>
+<div class="box-text">
+<p>LUMICEF is used in the treatment of psoriasis vulgaris that respond inadequately to existing therapies.</p>
+<!-- /.box-text --></div>
+<!-- content --></div>
+<div class="box-image">
+<img src="images/index_img_logo_lumicef.jpg" alt="LUMICEF®">
+<!-- image --></div>
+<!-- /.box-layout-image --></div>
+
+<div class="box-layout-image layout-left box-layout-image-post-list">
+<div class="box-content">
+<h3 class="hdg-lv2-05">NESP® (Darbepoetin alfa)</h3>
+<div class="box-text">
+<p>NESP is used in the treatment of anemia (low red blood cell counts) due to chronic kidney disease (CKD), including patients on dialysis and patients not on dialysis.</p>
+<!-- /.box-text --></div>
+<!-- content --></div>
+<div class="box-image">
+<img src="images/index_img_logo_espo.jpg" alt="NESP®">
+<!-- image --></div>
+<!-- /.box-layout-image --></div>
+
+<div class="box-layout-image layout-left box-layout-image-post-list">
+<div class="box-content">
+<h3 class="hdg-lv2-05">PECFENT® (Fentanyl)</h3>
+<div class="box-text">
+<p>PecFent nasal spray is indicated for the management of breakthrough pain (BTP) in adults who are already receiving maintenance opioid therapy for chronic cancer pain.</p>
+<!-- /.box-text --></div>
+<!-- content --></div>
+<div class="box-image">
+<img src="images/index_img_logo_pecfent.jpg" alt="PECFENT®">
+<!-- image --></div>
+<!-- /.box-layout-image --></div>
+
+<div class="box-layout-image layout-left box-layout-image-post-list">
+<div class="box-content">
+<h3 class="hdg-lv2-05">REGPARA® (Cinacalcet Hydrochloride)</h3>
+<div class="box-text">
+<p>REGPARA is used in the treatment of secondary hyperparathyroidism in patients with chronic kidney disease (CKD) on dialysis.</p>
+<!-- /.box-text --></div>
+<!-- content --></div>
+<div class="box-image">
+<img src="images/index_img_logo_regpara.jpg" alt="REGPARA®">
+<!-- image --></div>
+<!-- /.box-layout-image --></div>
+
+<div class="box-layout-image layout-left box-layout-image-post-list">
+<div class="box-content">
+<h3 class="hdg-lv2-05">ROMIPLATE® (Romiplostim)</h3>
+<div class="box-text">
+<p>Romiplate is used in the treatment of thrombocytopenia in adult splenectomised patients with chronic immune (idiopathic) thrombocytopenia purpura (ITP) who have had insufficient response to corticosteroids or immune globulin. In addition, Romiplate is used as second-line treatment for adult non-splenectomised patients where surgery is contraindicated.</p>
+<!-- /.box-text --></div>
+<!-- content --></div>
+<div class="box-image">
+<img src="images/index_img_logo_romiplate.jpg" alt="ROMIPLATE®">
+<!-- image --></div>
+<!-- /.box-layout-image --></div>
+
+<div class="box-layout-image layout-left box-layout-image-post-list">
+<div class="box-content">
+<h3 class="hdg-lv2-05">SANCUSO® (Granisetron Transdermal System)</h3>
+<div class="box-text">
+<p>Sancuso transdermal system is used in the prevention of nausea and vomiting in patients receiving moderately and/or highly emetogenic chemotherapy for up to 5 consecutive days.</p>
+<!-- /.box-text --></div>
+<!-- content --></div>
+<div class="box-image">
+<img src="images/index_img_logo_sancuso.jpg" alt="SANCUSO®">
+<!-- image --></div>
+<!-- /.box-layout-image --></div>
+
+
+
+
+
+<!-- /.box-hdg2-wrapper --></div>
+<!-- /.str-section --></div>
+<!-- /.str-section-wrapper --></div>
+
+<partial src="../includes/footer.html"/>

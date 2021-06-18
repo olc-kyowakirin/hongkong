@@ -24,47 +24,69 @@
 <!-- /.str-section --></div>
 <!-- /.str-section-wrapper --></div>
 
-<div class="str-section-wrapper">
-<div class="str-section">
-<div class="box-hdg2-wrapper">
-<h2 class="hdg-lv2-02">Cutting-edge biotechnology centered on antibody engineering technology</h2>
-<div class="box-text">
-<p class="text-lead">We use this technology across the four therapeutic areas of: Nephrology, Oncology, Immunology & Allergy, and Central Nervous System.</p>
 
+
+<div class="str-section-wrapper">
+<div class="str-section str-section-spacing">
+<div class="box-hdg2-wrapper">
+<div class="box-layout col2" data-sp-slider="0">
+<div class="col">
+<div class="box-hdg-container">
+  <div class="sp-hide" ><br/><br/><br/><br/><br/><br/><br/><br/></div>
+<div class="box-content">
+<h2 class="hdg-lv2-05 text-left">Cutting-edge biotechnology centered on antibody engineering technology</h2>
+<div class="box-text">
+<p class="text-lead text-left">We use this technology across the four therapeutic areas of: Nephrology, Oncology, Immunology & Allergy, and Central Nervous System.</p>
 <!-- /.box-text --></div>
+<!-- /.box-content --></div>
+<!-- /.box-hdg-container --></div>
+
+<!-- /.col --></div>
+<div class="col">
+<div class="box-layout col2 sp-col2" data-sp-slider="0">
+<div class="col">
+<div class="box-image">
+<img src="images/index_img_parts_01.png" alt="Nephrology"></div>
+<div class="box-text text-center">
+<p class="text-lead ">Nephrology</p>
+<!-- /.box-text--></div>
+<!-- /.col --></div>
+
+<div class="col">
+<div class="box-image">
+<img src="images/index_img_parts_03.png" alt="Nephrology"></div>
+<div class="box-text text-center">
+<p class="text-lead ">Oncology</p>
+<!-- /.box-text--></div>
+<!-- /.col --></div>
+
+<div class="col">
+<div class="box-image">
+<img src="images/index_img_parts_02.png" alt="Nephrology"></div>
+<div class="box-text text-center">
+<p class="text-lead ">Immunology &amp; Allergy</p>
+<!-- /.box-text--></div>
+<!-- /.col --></div>
+
+<div class="col">
+<div class="box-image">
+<img src="images/index_img_parts_04.png" alt="Nephrology"></div>
+<div class="box-text text-center">
+<p class="text-lead ">Central Nervous System</p>
+<!-- /.box-text--></div>
+<!-- /.col --></div>
+
+
+  <!-- /.box-layout --></div>
+
+<!-- /.col --></div>
+
+<!-- /.box-layout --></div>
 <!-- /.box-hdg2-wrapper --></div>
 <!-- /.str-section --></div>
 <!-- /.str-section-wrapper --></div>
 <div class="str-section-wrapper">
-<div class="area-focus-wrapper">
-<div class="area-focus-icon icon-01 kkc-anime_scroll_focus-icon_trigger kkc-anime_trigger_focus-icon_item kkc-anime_state_show kkc-anime_state_ignition kkc-anime_state_animation-end" data-trigger="focus-icon1" data-trigger-name="focus-icon1">
-<img src="images/index_img_parts_01.png" alt="Nephrology">
-<div class="box-hdg2-wrapper">
-<p class="text-lead">Nephrology</p>
-<!-- /.box-hdg2-wrapper --></div>
-</div>
-<div class="area-focus-icon icon-03 kkc-anime_scroll_focus-icon_trigger kkc-anime_trigger_focus-icon_item kkc-anime_state_show kkc-anime_state_ignition kkc-anime_state_animation-end" data-trigger="focus-icon2" data-trigger-name="focus-icon2">
-<img src="images/index_img_parts_03.png" alt="Oncology">
-<div class="box-hdg2-wrapper">
-<p class="text-lead">Oncology</p>
-<!-- /.box-hdg2-wrapper --></div>
-</div>
-<div class="area-focus-icon icon-02 kkc-anime_trigger_focus-icon_item kkc-anime_state_ignition kkc-anime_state_animation-end" data-trigger-name="focus-icon1">
-<img src="images/index_img_parts_02.png" alt="Immunology &amp; Allergy">
-<div class="box-hdg2-wrapper">
-<p class="text-lead">Immunology &amp; Allergy</p>
-<!-- /.box-hdg2-wrapper --></div>
-</div>
-<div class="area-focus-icon  icon-04 kkc-anime_trigger_focus-icon_item kkc-anime_state_ignition kkc-anime_state_animation-end" data-trigger-name="focus-icon2">
-<img src="images/index_img_parts_04.png" alt="Central Nervous System">
-<div class="box-hdg2-wrapper">
-<p class="text-lead">Central Nervous System</p>
-<!-- /.box-hdg2-wrapper --></div>
-</div>
-<!-- /.area-focus-wrapper --></div>
-
-<div class="str-section-wrapper first-section">
-<div class="str-section">
+<div class="str-section str-section-boxed str-section-spacing">
 <div class="box-hdg2-wrapper" id="anc-product-information">
 <h2 class="hdg-lv2-02">Product Information</h2>
 <div class="box-text">
@@ -72,6 +94,54 @@
 <!-- /.box-text --></div>
 <!-- /.box-hdg2-wrapper --></div>
 <!-- /.str-section --></div>
+
+<div class="str-section">
+<div class="box-layout col4" data-sp-slider="0">
+<div class="col">
+<div class="box-image">
+<a href="/hongkong/our_products/index.html" class="text-link-sub outBoundModalLink"><img src="images/index_img_logo_crysvita.jpg" alt="Crysvita"></a>
+<!-- /.box-image --></div>
+<!-- /.col --></div>
+
+<div class="col">
+<div class="box-image">
+<a href="/hongkong/our_products/index.html" class="text-link-sub outBoundModalLink"><img src="images/index_img_logo_lumicef.jpg" alt="Lumicef"></a>
+<!-- /.box-image --></div>
+<!-- /.col --></div>
+
+<div class="col">
+<div class="box-image">
+<a href="/hongkong/our_products/index.html" class="text-link-sub outBoundModalLink"><img src="images/index_img_logo_espo.jpg" alt="ESPO"></a>
+<!-- /.box-image --></div>
+<!-- /.col --></div>
+
+<div class="col">
+<div class="box-image">
+<a href="/hongkong/our_products/index.html" class="text-link-sub outBoundModalLink"><img src="images/index_img_logo_pecfent.jpg" alt="Pecfent"></a>
+<!-- /.box-image --></div>
+<!-- /.col --></div>
+
+<div class="col">
+<div class="box-image">
+<a href="/hongkong/our_products/index.html" class="text-link-sub outBoundModalLink"><img src="images/index_img_logo_regpara.jpg" alt="Regpara"></a>
+<!-- /.box-image --></div>
+<!-- /.col --></div>
+
+<div class="col">
+<div class="box-image">
+<a href="/hongkong/our_products/index.html" class="text-link-sub outBoundModalLink"><img src="images/index_img_logo_romiplate.jpg" alt="Romiplate"></a>
+<!-- /.box-image --></div>
+<!-- /.col --></div>
+
+<div class="col">
+<div class="box-image">
+<a href="/hongkong/our_products/index.html" class="text-link-sub outBoundModalLink"><img src="images/index_img_logo_sancuso.jpg" alt="Sancuso"></a>
+<!-- /.box-image --></div>
+<!-- /.col --></div>
+
+<!-- /.box-layout --></div>
+<!-- /.str-section --></div>
 <!-- /.str-section-wrapper --></div>
+
 
 <partial src="../includes/footer.html"/>
