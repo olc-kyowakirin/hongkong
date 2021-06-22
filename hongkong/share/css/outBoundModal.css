@@ -120,6 +120,12 @@ body.is-fixed {
   padding: 0;
 }
 
+.box-modal-outbound p.text-lead {
+    font-size: calc(3.2rem/2);
+    line-height: 1.125;
+    letter-spacing: -.1px;
+    text-align: center;
+}
 .box-modal-outbound a {
   text-decoration: none;
   color: #ea5504;
@@ -235,7 +241,8 @@ body.is-fixed {
 @media screen and (min-width: 769px) {
   .box-modal-outbound .btn-03 {
     font-size: 1.7rem;
-    padding: 19.75px 10px 17.75px;
+    padding: 5px 10px;
+    xpadding: 19.75px 10px 17.75px;
   }
   .box-modal-outbound .btn-03.btn-small {
     font-size: 1.6rem;
@@ -244,6 +251,12 @@ body.is-fixed {
   .box-modal-outbound .box-text {
     margin-bottom: 29px;
   }
+
+  .box-modal-outbound p.text-lead {
+    font-size: 2.0rem;
+    line-height: 1.3em;
+  }
+
 }
 
 @media screen and (max-width: 769px) {

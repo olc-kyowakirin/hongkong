@@ -12,7 +12,7 @@
 <!-- /.image --></div>
 
 <div class="str-section-wrapper first-section our-products-01">
-<div class="str-section">
+<div class="str-section str-section-boxed-800px">
 <div class="box-hdg2-wrapper" id="our-products">
 <h1 class="hdg-lv2-02">Our Products</h1>
 <p class="text-lead">We strive to develop unique effective therapies for our patients within our areas of focus. We combine a unique balance between technology and innovation into our drug development and discovery. Our dedicated team of experts make important strides in understanding the patient needs in the areas of Nephrology, Oncology, Immunology & Allergy, and Central Nervous System.</p>
@@ -23,7 +23,7 @@
 <div class="str-section str-section-boxed-800px str-section-spacing">
 <div class="box-hdg2-wrapper">
 
-<div class="box-layout-image layout-left box-layout-image-post-list">
+<div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-crysvita" >
 <div class="box-content">
 <h3 class="hdg-lv2-05">CRYSVITA® (Burosumab)</h3>
 <div class="box-text">
@@ -35,7 +35,7 @@
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
 
-<div class="box-layout-image layout-left box-layout-image-post-list">
+<div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-lumicef">
 <div class="box-content">
 <h3 class="hdg-lv2-05">LUMICEF® (Brodalumab)</h3>
 <div class="box-text">
@@ -47,7 +47,7 @@
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
 
-<div class="box-layout-image layout-left box-layout-image-post-list">
+<div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-espo">
 <div class="box-content">
 <h3 class="hdg-lv2-05">NESP® (Darbepoetin alfa)</h3>
 <div class="box-text">
@@ -59,7 +59,7 @@
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
 
-<div class="box-layout-image layout-left box-layout-image-post-list">
+<div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-pecfent">
 <div class="box-content">
 <h3 class="hdg-lv2-05">PECFENT® (Fentanyl)</h3>
 <div class="box-text">
@@ -71,7 +71,7 @@
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
 
-<div class="box-layout-image layout-left box-layout-image-post-list">
+<div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-regpara">
 <div class="box-content">
 <h3 class="hdg-lv2-05">REGPARA® (Cinacalcet Hydrochloride)</h3>
 <div class="box-text">
@@ -83,7 +83,7 @@
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
 
-<div class="box-layout-image layout-left box-layout-image-post-list">
+<div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-romiplate">
 <div class="box-content">
 <h3 class="hdg-lv2-05">ROMIPLATE® (Romiplostim)</h3>
 <div class="box-text">
@@ -95,7 +95,7 @@
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
 
-<div class="box-layout-image layout-left box-layout-image-post-list">
+<div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-sancuso">
 <div class="box-content">
 <h3 class="hdg-lv2-05">SANCUSO® (Granisetron Transdermal System)</h3>
 <div class="box-text">

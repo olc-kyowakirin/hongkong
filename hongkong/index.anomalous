@@ -42,7 +42,15 @@
 <p class="text-lead">For the health and well-being of people around the world.</p>
 <br/>
 <a id="anc-message-from-general-manager" href="#modal-message" class="kkc-anime_scroll_common_fade-in btn-modalopen parts-feature parts-commitment kkc-anime_state_show kkc-anime_state_animation-end">
-<div class="tile size-l box-movie-modal-wrapper kkc-anime_scroll_common_fade-in-bottom">
+<div class="sp-hide tile size-l box-movie-modal-wrapper kkc-anime_scroll_common_fade-in-bottom">
+<div class="box-content box-movie-thumb box-movie-spe">
+<p class="title"><span>General Manager’s Message<span class="icon icon-modal">open</span></span></p>
+<!-- /.box-content --></div>
+<div class="box-image">
+<img src="images/index_img_gm_message_01.jpg" alt="Get to Know Us">
+<!-- /.box-image --></div>
+<!-- /.tile --></div>
+<div class="pc-hide tile size-m box-movie-modal-wrapper kkc-anime_scroll_common_fade-in-bottom">
 <div class="box-content box-movie-thumb box-movie-spe">
 <p class="title"><span>General Manager’s Message<span class="icon icon-modal">open</span></span></p>
 <!-- /.box-content --></div>
@@ -88,7 +96,7 @@
 <!-- /.str-section-wrapper --></div>
 
 <div id="anc-our-vision" class="str-section-wrapper first-section about-us-1">
-<div class="str-section str-section-boxed">
+<div class="str-section str-section-boxed-800px">
 <div class="box-hdg2-wrapper">
 <h1 class="hdg-lv2-02">Our Vision</h1>
 <p class="text-lead">As a Japan-based Global Specialty Pharmaceutical Company, Kyowa Kirin Hong Kong is dedicated towards our patient health and wellbeing worldwide. We leverage on innovative drug discovery and global commercialisation, driven by state-of-the-art antibody technologies mainly in the core therapeutic areas of Oncology, Nephrology, Immunology & Allergy, and Central Nervous System.</p>
@@ -97,7 +105,7 @@
 <!-- /.str-section-wrapper --></div>
 
 <div id="anc-our-philosophy" class="str-section-wrapper first-section about-us-1">
-<div class="str-section str-section-boxed">
+<div class="str-section str-section-boxed-800px">
 <div class="box-hdg2-wrapper">
 <h1 class="hdg-lv2-02">Our Philosophy</h1>
 <p class="text-lead">Kyowa Kirin Hong Kong aspires to collaborate with our counterparts to contribute to the health and well-being of people around the world by creating new value through the pursuits of advances in life sciences and technologies.</p>
@@ -179,7 +187,7 @@
 <!-- /.box-corevalue-top --></div>
 <br/><br/>
 <div class="str-section-wrapper homepage-04 olc-button-section">
-<div class="str-section str-section-boxed">
+<div class="str-section str-section-boxed-800px">
 <div class="box-hdg2-wrapper" id="anc-area-of-focus">
 <h2 class="hdg-lv2-02">Areas of Focus</h2>
 <div class="area-focus-inner">
@@ -187,7 +195,7 @@
 <!-- /.area-focus-inner --></div>
 <p class="text-lead">We are committed towards our patient health and their well-being through innovative drug discovery and global commercialisation, driven by state-of-the-art antibody technologies, in the core therapeutic areas of: Nephrology, Oncology, Immunology & Allergy, and Central Nervous System.</p>
 <br/>
-<a href="#/hongkong/therapeutic_areas/index.html" class="btn-olc-small-size btn-orange-grey"><span>Discover our therapeutic areas</span></a>
+<a href="/hongkong/therapeutic_areas/index.html" class="btn-olc-small-size btn-orange-grey"><span>Discover our therapeutic areas</span></a>
 <!-- /.box-hdg2-wrapper --></div>
 <!-- /.str-section --></div>
 <!-- /.str-section-wrapper --></div>
