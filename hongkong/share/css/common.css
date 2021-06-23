@@ -11908,11 +11908,12 @@ xx.box-hdg-wrapper.type-05 .box-hdg-container{
 }
 
 /* desktop lang switcher menu */
+.menu-lang > a { margin-left: 15px !important; }
 .menu-lang.lang-first{ padding-left: 30px;}
 .menu-lang.lang-splitter{
   background-image: url('/hongkong/share/images/icon_splitter_01.png');
   background-repeat: no-repeat;
-  padding: 0px 0px 0px 30px;
+  padding: 0px 0px 0px 25px;
   background-position: right center;
 }
 .menu-lang.lang-last{}
