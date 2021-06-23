@@ -1243,8 +1243,9 @@ main.type-01 + footer {
   min-height: 81.13333vw;
 }
 .box-hdg-wrapper.type-03 { min-height: 100vh; margin-top:-60px; }
-.box-hdg-wrapper.type-05 { min-height: 75vh; }
 .box-hdg-wrapper.type-04 { min-height: 40vh;}
+.box-hdg-wrapper.type-05 { min-height: 75vh; }
+.box-hdg-wrapper.type-06 { min-height: 25vh;}
 
 .box-hdg-wrapper.type-02 > .hdg-lv1-01 {
   margin-top: 0;
@@ -4808,14 +4809,16 @@ div#message-president .box-image{
 
 .box-hdg-wrapper.type-03 .image img,
 .box-hdg-wrapper.type-04 .image img,
-.box-hdg-wrapper.type-05 .image img{
+.box-hdg-wrapper.type-05 .image img,
+.box-hdg-wrapper.type-06 .image img{
     position: absolute;
     bottom: 0;
 }
 @media only screen and (max-width: 768px) {
   .box-hdg-wrapper.type-03 .image img,
   .box-hdg-wrapper.type-04 .image img,
-  .box-hdg-wrapper.type-05 .image img{
+  .box-hdg-wrapper.type-05 .image img,
+  .box-hdg-wrapper.type-06 .image img{
       min-height:75px;
     }
 
@@ -4823,7 +4826,8 @@ div#message-president .box-image{
 @media only screen and (min-width: 769px) {
   .box-hdg-wrapper.type-03 .image img,
   .box-hdg-wrapper.type-04 .image img,
-  .box-hdg-wrapper.type-05 .image img{
+  .box-hdg-wrapper.type-05 .image img,
+  .box-hdg-wrapper.type-06 .image img{
       min-height:100px;
     }
 }
@@ -5112,6 +5116,7 @@ div#message-president .box-image{
 @media only screen and (max-width: 768px) {
   .box-corevalue-top .box-corevalue-wrapper {
     background-size: contain !important;
+    background-position: top center !important;
   }
 }
 .box-corevalue-top .box-corevalue-wrapper .image img {
@@ -7286,6 +7291,10 @@ xx.js-enable .box-offices-globalarea .box-panel {
   }
   .box-hdg-wrapper.type-04 {
     min-height: 65vh;
+    margin-top: -47px;
+  }
+  .box-hdg-wrapper.type-06 {
+    min-height: 50vh;
     margin-top: -47px;
   }
   .box-hdg-wrapper.type-arrow::after {
@@ -11392,7 +11401,7 @@ footer .footer-area-sub p.footer-copy {
 .box-offices-globalarea .box-inner .box-panel .panel.panel-orange-space{
   min-height: 50px;
   border-radius: 30px;
-  margin:30px 0px -75px 0px !important;
+  margin:30px 0px -15px 0px !important;
 }
 
 .str-section-wrapper.contact-us-04{ padding-bottom:100px; margin-top:-20px; }
@@ -11897,3 +11906,13 @@ xx.box-hdg-wrapper.type-05 .box-hdg-container{
   margin-top: -10px;
 }
 }
+
+/* desktop lang switcher menu */
+.menu-lang.lang-first{ padding-left: 30px;}
+.menu-lang.lang-splitter{
+  background-image: url('/hongkong/share/images/icon_splitter_01.png');
+  background-repeat: no-repeat;
+  padding: 0px 0px 0px 30px;
+  background-position: right center;
+}
+.menu-lang.lang-last{}

@@ -7,13 +7,8 @@
 <link rel="canonical" href="https://www.kyowakirin.com/hongkong/contact_us/index.html">
 <partial src="../includes/header-end.html"/>
 
-<div class="box-hdg-wrapper type-04 kkc-anime_load_other-mainvisual contact-us-header">
-<div class="image">
-<img src="/hongkong/images/index_bg_mainsection_01.png" alt="">
-<!-- /.image --></div>
-<!-- /.image --></div>
 <div class="box-hdg-wrapper type-05 kkc-anime_load_other-mainvisual contact-us-01">
-<div class="box-hdg-container" id="anc-hongkong-office">
+<div class="box-hdg-container">
 <div class="box-content-left">
 <h1 class="hdg-lv1-02">Kyowa Kirin Hong&nbsp;Kong</h1>
 <div class="box-content">
@@ -38,9 +33,16 @@
 <!-- /.map-area --></div>
 <!-- /.image --></div>
 <!-- /.box-hdg-wrapper --></div>
+
+<div class="box-hdg-wrapper type-06 kkc-anime_load_other-mainvisual contact-us-header">
+<div class="image">
+<img src="/hongkong/images/index_bg_mainsection_01.png" alt="">
+<!-- /.image --></div>
+<!-- /.image --></div>
 <div class="str-section-wrapper">
 <div class="str-section">
 <div class="box-hdg2-wrapper" id="anc-other-apac-offices">
+<br/><br/><br/>
 <h1 class="hdg-lv2-02">Our Asia Pacific Offices</h1>
 <!-- /.box-hdg2-wrapper --></div>
 <div class="box-globalnetwork">
@@ -53,7 +55,7 @@
 <div class="box-thumb"><img src="images/index_img_regionalnetwork_panel_australia_01.jpg" alt="Australia"></div>
 <div class="box-content">
 <h3 class="title"><span class="sub">AUSTRALIA</span>Kyowa Kirin Australia Pty Ltd</h3>
-<p class="box-text">68 York Street<br>Sydney<br>NSW 2000, Australia<br/>E-mail: enquiry.kkau@kyowakirin.com</p>
+<p class="box-text">68 York Street<br>Sydney<br>NSW 2000, Australia</p>
 <p class="link-icon link-text"><span>Visit website</span></p>
 </div>
 <!-- /.panel Australia --></a>

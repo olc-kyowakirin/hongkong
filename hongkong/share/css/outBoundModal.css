@@ -159,6 +159,7 @@ body.is-fixed {
   padding: calc(35px/2);
   transition: background-color .4s;
   border-radius: 30px;
+  cursor: pointer;
 }
 
 .box-modal-outbound .btn-03:hover,
