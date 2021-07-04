@@ -69,6 +69,16 @@ $(function () {
                 hostname: '',
                 pathname: '/hongkong/our_products/*',
                 type: 'type21'
+            },
+            {
+                hostname: 'www.kyowakirin.com',
+                pathname: '/hongkong/cn/our_products/*',
+                type: 'type22'
+            },
+            {
+                hostname: '',
+                pathname: '/hongkong/cn/our_products/*',
+                type: 'type22'
             }
         ];
         var modalTmp = '<div class="box-modal-outbound"><div class="box-modal-inner"><div class="modal-tmp"></div><button class="btn-modal-close" type="button"><span class="radius"><span>Close</span></span></button></div>';
@@ -78,6 +88,9 @@ $(function () {
 
             // Disclaimer  Links
             type21: '<div class="box-text"><p class="text-lead">The information contained in this section is intended for healthcare professionals only. Please confirm you are a healthcare professional.</p></div><div class="align-c"><a href="{{href}}" class="btn-03 btn-large">Yes, I am a healthcare professional</a><br/><br/><a class="btn-03 btn-large">No, I am not a healthcare professional</a></div>',
+
+            // Disclaimer  Links
+            type22: '<div class="box-text"><p class="text-lead">以下資訊僅供專業醫護人員參考。請確認閣下是否專業醫護人員？</p></div><div class="align-c"><a href="{{href}}" class="btn-03 btn-large">是，本人確認為專業醫護人員， 並已查閱及同意接受本網站之使用條款及私隱政策內容。</a><br/><br/><a class="btn-03 btn-large">否，本人並不是專業醫護人員。</a></div>',
 
             //President message
             type02: '<div class="box-text"><p><em>Président</em></p><p>Fabienne Delaplace-Lavoix</p><p><em>Pour toute déclaration d’effet indésirable, contactez</em></p><p>pvfrance@kyowakirin.com</p><p><em>Pour toute demande d’information médicale, contactez</em></p><p>Infomed-FR@kyowakirin.com</p></div><div class="box-text mb-0"><p>Kyowa Kirin Pharma est certifié pour son activité d’information par démarchage ou prospection visant à la promotion des médicaments.</p><p>Pour toute appréciation sur la qualité de notre information promotionnelle, contactez pharmaceutique-fr@kyowakirin.com.</p></div>',

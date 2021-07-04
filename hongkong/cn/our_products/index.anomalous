@@ -1,0 +1,118 @@
+<partial src="../includes/header-start.html"/>
+<title>我們的產品 - 協和麒麟香港</title>
+<meta name="robots" content="noindex">
+<partial src="../includes/header-title.html"/>
+<link rel="canonical" href="https://www.kyowakirin.com/hongkong/our_products/index.html">
+<partial src="../includes/header-end.html"/>
+
+<div class="box-hdg-wrapper type-04 kkc-anime_load_other-mainvisual our-products-header">
+<div class="image">
+<img src="/hongkong/images/index_bg_mainsection_01.png" alt="">
+<!-- /.image --></div>
+<!-- /.image --></div>
+
+<div class="str-section-wrapper first-section our-products-01">
+<div class="str-section str-section-boxed-800px">
+<div class="box-hdg2-wrapper" id="our-products">
+<h1 class="hdg-lv2-02">我們的產品</h1>
+<p class="text-lead">我們致力於在我們關注的領域為患者開發有效的療法。 我們將技術與創新之間的獨特平衡結合到我們的藥物開發和發現中。 我們敬業的專家團隊在了解腎臟病，腫瘤學，免疫學和過敏症以及中樞神經系統領域的患者需求方面邁出了重要的一步。</p>
+<!-- /.box-hdg2-wrapper --></div>
+<!-- /.str-section --></div>
+<!-- /.str-section-wrapper --></div>
+<div class="str-section-wrapper our-products-08">
+<div class="str-section str-section-boxed-800px str-section-spacing">
+<div class="box-hdg2-wrapper">
+
+<div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-crysvita" >
+<div class="box-content">
+<h3 class="hdg-lv2-05">CRYSVITA® (Burosumab)</h3>
+<div class="box-text">
+<p>CRYSVITA用於治療成人及一歲或以上患有X連鎖低磷酸佝僂症 (X-linked hypophosphatemia, XLH) 的病人。</p>
+<!-- /.box-text --></div>
+<!-- content --></div>
+<div class="box-image">
+<img src="images/index_img_logo_crysvita.jpg" alt="CRYSVITA®">
+<!-- image --></div>
+<!-- /.box-layout-image --></div>
+
+<div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-lumicef">
+<div class="box-content">
+<h3 class="hdg-lv2-05">LUMICEF® (Brodalumab)</h3>
+<div class="box-text">
+<p>LLUMICEF用於治療患有銀屑病，且對其他現有治療無效的病人</p>
+<!-- /.box-text --></div>
+<!-- content --></div>
+<div class="box-image">
+<img src="images/index_img_logo_lumicef.jpg" alt="LUMICEF®">
+<!-- image --></div>
+<!-- /.box-layout-image --></div>
+
+<div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-espo">
+<div class="box-content">
+<h3 class="hdg-lv2-05">NESP® (Darbepoetin alfa)</h3>
+<div class="box-text">
+<p>NESP是用於正進行透析治療或未進行透析治療的慢性腎衰竭患者的貧血症狀。</p>
+<!-- /.box-text --></div>
+<!-- content --></div>
+<div class="box-image">
+<img src="images/index_img_logo_espo.jpg" alt="NESP®">
+<!-- image --></div>
+<!-- /.box-layout-image --></div>
+
+<div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-pecfent">
+<div class="box-content">
+<h3 class="hdg-lv2-05">PECFENT® (Fentanyl)</h3>
+<div class="box-text">
+<p>PecFent 鼻腔噴霧是用於持續使用鴉片類藥物而無法控制疼痛的癌症病人，以治療其爆發性疼痛。</p>
+<!-- /.box-text --></div>
+<!-- content --></div>
+<div class="box-image">
+<img src="images/index_img_logo_pecfent.jpg" alt="PECFENT®">
+<!-- image --></div>
+<!-- /.box-layout-image --></div>
+
+<div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-regpara">
+<div class="box-content">
+<h3 class="hdg-lv2-05">REGPARA® (Cinacalcet Hydrochloride)</h3>
+<div class="box-text">
+<p>REGPARA是用於正進行透析治療的繼發性副甲狀腺機能亢進。</p>
+<!-- /.box-text --></div>
+<!-- content --></div>
+<div class="box-image">
+<img src="images/index_img_logo_regpara.jpg" alt="REGPARA®">
+<!-- image --></div>
+<!-- /.box-layout-image --></div>
+
+<div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-romiplate">
+<div class="box-content">
+<h3 class="hdg-lv2-05">ROMIPLATE® (Romiplostim)</h3>
+<div class="box-text">
+<p>Romiplate用於治療在脾臟切除後且對其他治療（例如:類固醇、免疫球蛋白）無效之成年慢性免疫性（自發性）血小板缺乏紫斑症(ITP)。另外，Romiplate可作為不適合進行脾臟切除之ITP成人患者的第二線治療。</p>
+<!-- /.box-text --></div>
+<!-- content --></div>
+<div class="box-image">
+<img src="images/index_img_logo_romiplate.jpg" alt="ROMIPLATE®">
+<!-- image --></div>
+<!-- /.box-layout-image --></div>
+
+<div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-sancuso">
+<div class="box-content">
+<h3 class="hdg-lv2-05">SANCUSO® (Granisetron Transdermal System)</h3>
+<div class="box-text">
+<p>Sancuso藥敷貼用於因應進行中度及／或高度致吐性化學療法療程而引起的嘔吐及噁心，有效五天。</p>
+<!-- /.box-text --></div>
+<!-- content --></div>
+<div class="box-image">
+<img src="images/index_img_logo_sancuso.jpg" alt="SANCUSO®">
+<!-- image --></div>
+<!-- /.box-layout-image --></div>
+
+
+
+
+
+<!-- /.box-hdg2-wrapper --></div>
+<!-- /.str-section --></div>
+<!-- /.str-section-wrapper --></div>
+
+<partial src="../includes/footer.html"/>

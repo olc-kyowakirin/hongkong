@@ -1,7 +1,7 @@
 <partial src="../includes/header-start.html"/>
-<title>Our Therapeutic Areas - Kyowa Kirin Hong Kong</title>
+<title>治療領域 - 協和麒麟香港</title>
 <meta name="description" content="Kyowa Kirin strives to develop effective therapies for our patients within our areas of focus through a combination of a unique balance between technology and innovation into our drug development and discovery.">
-<meta property="og:title" content="Our Therapeutic Areas - Kyowa Kirin Hong Kong">
+<meta property="og:title" content="治療領域 - 協和麒麟香港">
 <meta property="og:description" content="Kyowa Kirin strives to develop effective therapies for our patients within our areas of focus through a combination of a unique balance between technology and innovation into our drug development and discovery.">
 <partial src="../includes/header-title.html"/>
 <link rel="canonical" href="https://www.kyowakirin.com/hongkong/therapeutic_areas/index.html">
@@ -16,9 +16,9 @@
 <div class="str-section-wrapper first-section">
 <div class="str-section str-section-boxed-800px">
 <div class="box-hdg2-wrapper" id="anc-our-therapeutic-areas">
-<h2 class="hdg-lv2-02">Our Therapeutic Areas</h2>
+<h2 class="hdg-lv2-02">治療領域</h2>
 <div class="box-text">
-<p class="text-lead">Kyowa Kirin has an advanced research and development system that displays innovation in drug discovery using cutting-edge biotechnology in antibody engineering technology.</p>
+<p class="text-lead">協和麒麟擁有先進的研發系統，該系統在利用抗體工程技術中使用最先進的生物技術，展示了藥物研發方面的創新。</p>
 <!-- /.box-text --></div>
 <!-- /.box-hdg2-wrapper --></div>
 <!-- /.str-section --></div>
@@ -35,9 +35,9 @@
   <br/>
   <div class="sp-hide" ><br/><br/><br/><br/><br/><br/><br/><br/></div>
 <div class="box-content">
-<h2 class="hdg-lv2-05 text-left">Cutting-edge biotechnology centered on antibody engineering technology</h2>
+<h2 class="hdg-lv2-05 text-left">以抗體工程技術為重心的尖端生物技術</h2>
 <div class="box-text">
-<p class="text-lead text-left">We use this technology across the four therapeutic areas of: Nephrology, Oncology, Immunology & Allergy, and Central Nervous System.</p>
+<p class="text-lead text-left">我們在以下四個治療領域中使用該技術：腎臟疾病，腫瘤學，免疫學和過敏症以及中樞神經系統。</p>
 <!-- /.box-text --></div>
 <!-- /.box-content --></div>
 <!-- /.box-hdg-container --></div>
@@ -47,29 +47,29 @@
 <div class="box-layout col2 sp-col2" data-sp-slider="0">
 <div class="col">
 <div class="box-image">
-<img src="images/index_img_parts_01.png" alt="Nephrology">
-<p class="text-lead ">Nephrology</p>
+<img src="images/index_img_parts_01.png" alt="腎臟學">
+<p class="text-lead ">腎臟學</p>
 <!-- /.box-image--></div>
 <!-- /.col --></div>
 
 <div class="col">
 <div class="box-image">
-<img src="images/index_img_parts_03.png" alt="Oncology">
-<p class="text-lead ">Oncology</p>
+<img src="images/index_img_parts_03.png" alt="腫瘤學">
+<p class="text-lead ">腫瘤學</p>
 <!-- /.box-image--></div>
 <!-- /.col --></div>
 
 <div class="col">
 <div class="box-image">
-<img src="images/index_img_parts_02.png" alt="Immunology & Allergy">
-<p class="text-lead ">Immunology &amp; Allergy</p>
+<img src="images/index_img_parts_02.png" alt="免疫學和過敏症">
+<p class="text-lead ">免疫學和過敏症</p>
 <!-- /.box-image--></div>
 <!-- /.col --></div>
 
 <div class="col">
 <div class="box-image">
-<img src="images/index_img_parts_04.png" alt="Central Nervous System">
-<p class="text-lead ">Central Nervous System</p>
+<img src="images/index_img_parts_04.png" alt="中樞神經系統">
+<p class="text-lead ">中樞神經系統</p>
 <!-- /.box-image--></div>
 <!-- /.col --></div>
 
@@ -85,9 +85,9 @@
 <div class="str-section-wrapper">
 <div class="str-section str-section-boxed-800px str-section-spacing">
 <div class="box-hdg2-wrapper" id="anc-product-information">
-<h2 class="hdg-lv2-02">Product Information</h2>
+<h2 class="hdg-lv2-02">產品資料</h2>
 <div class="box-text">
-<p class="text-lead">At Kyowa Kirin, we strive to develop effective therapies for our patients within our areas of focus. We combine a unique balance between technology and innovation into our drug development and discovery. Our dedicated team of experts make important strides in understanding the patient needs in the areas of Nephrology, Oncology, Immunology & Allergy, and Central Nervous System.</p>
+<p class="text-lead">在協和麒麟，我們致力於在我們關注的領域為患者開發有效的療法。 我們將技術與創新之間的獨特平衡結合到我們的藥物開發和發現中。 我們敬業的專家團隊在了解腎臟病，腫瘤學，免疫學和過敏症以及中樞神經系統領域的患者需求方面邁出了重要的一步。</p>
 <!-- /.box-text --></div>
 <!-- /.box-hdg2-wrapper --></div>
 <!-- /.str-section --></div>
@@ -98,43 +98,43 @@
 <div class="box-layout col4" data-sp-slider="0">
 <div class="col">
 <div class="box-image">
-<a href="/hongkong/our_products/index.html#anc-product-crysvita" class="text-link-sub"><img src="images/index_img_logo_crysvita.jpg" alt="Crysvita"></a>
+<a href="/hongkong/cn/our_products/index.html#anc-product-crysvita" class="text-link-sub"><img src="images/index_img_logo_crysvita.jpg" alt="Crysvita"></a>
 <!-- /.box-image --></div>
 <!-- /.col --></div>
 
 <div class="col">
 <div class="box-image">
-<a href="/hongkong/our_products/index.html#anc-product-lumicef" class="text-link-sub"><img src="images/index_img_logo_lumicef.jpg" alt="Lumicef"></a>
+<a href="/hongkong/cn/our_products/index.html#anc-product-lumicef" class="text-link-sub"><img src="images/index_img_logo_lumicef.jpg" alt="Lumicef"></a>
 <!-- /.box-image --></div>
 <!-- /.col --></div>
 
 <div class="col">
 <div class="box-image">
-<a href="/hongkong/our_products/index.html#anc-product-espo" class="text-link-sub"><img src="images/index_img_logo_espo.jpg" alt="ESPO"></a>
+<a href="/hongkong/cn/our_products/index.html#anc-product-espo" class="text-link-sub"><img src="images/index_img_logo_espo.jpg" alt="ESPO"></a>
 <!-- /.box-image --></div>
 <!-- /.col --></div>
 
 <div class="col">
 <div class="box-image">
-<a href="/hongkong/our_products/index.html#anc-product-pecfent" class="text-link-sub"><img src="images/index_img_logo_pecfent.jpg" alt="Pecfent"></a>
+<a href="/hongkong/cn/our_products/index.html#anc-product-pecfent" class="text-link-sub"><img src="images/index_img_logo_pecfent.jpg" alt="Pecfent"></a>
 <!-- /.box-image --></div>
 <!-- /.col --></div>
 
 <div class="col">
 <div class="box-image">
-<a href="/hongkong/our_products/index.html#anc-product-regpara" class="text-link-sub"><img src="images/index_img_logo_regpara.jpg" alt="Regpara"></a>
+<a href="/hongkong/cn/our_products/index.html#anc-product-regpara" class="text-link-sub"><img src="images/index_img_logo_regpara.jpg" alt="Regpara"></a>
 <!-- /.box-image --></div>
 <!-- /.col --></div>
 
 <div class="col">
 <div class="box-image">
-<a href="/hongkong/our_products/index.html#anc-product-romiplate" class="text-link-sub"><img src="images/index_img_logo_romiplate.jpg" alt="Romiplate"></a>
+<a href="/hongkong/cn/our_products/index.html#anc-product-romiplate" class="text-link-sub"><img src="images/index_img_logo_romiplate.jpg" alt="Romiplate"></a>
 <!-- /.box-image --></div>
 <!-- /.col --></div>
 
 <div class="col">
 <div class="box-image">
-<a href="/hongkong/our_products/index.html#anc-product-sancuso" class="text-link-sub"><img src="images/index_img_logo_sancuso.jpg" alt="Sancuso"></a>
+<a href="/hongkong/cn/our_products/index.html#anc-product-sancuso" class="text-link-sub"><img src="images/index_img_logo_sancuso.jpg" alt="Sancuso"></a>
 <!-- /.box-image --></div>
 <!-- /.col --></div>
 
