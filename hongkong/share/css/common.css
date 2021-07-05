@@ -11163,6 +11163,11 @@ xx.js-enable .box-offices-globalarea .box-panel {
   margin: 0 auto;
 }
 
+.str-section.str-section-boxed-700px{
+  max-width: 700px;
+  margin: 0 auto;
+}
+
 .str-section-wrapper.olc-button-section .box-hdg2-wrapper{
   margin: auto;
   text-align: center;
