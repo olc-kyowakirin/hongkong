@@ -3,6 +3,12 @@
     word-break: normal !important  ;
 }
 
+#back-to-top-button > span::before {
+  display: block !important;
+  margin-top: 15px !important;
+  margin-bottom: 10px !important;
+}
+
 /* desktop only */
 @media screen and (min-width: 769px) {
 .box-hdg2-wrapper .hdg-lv2-02 {
