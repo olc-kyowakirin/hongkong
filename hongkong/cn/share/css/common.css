@@ -1,14 +1,6 @@
 /* all devices */
-.box-modal-outbound a {
+*, ::before, ::after {
     word-break: normal !important  ;
-}
-
-.box-text {
-    margin-bottom: 0px !important;
-}
-
-.str-section-wrapper.homepage-03 .text-lead, .str-section-wrapper.homepage-04 .text-lead {
-    padding-bottom: 0px !important;
 }
 
 /* desktop only */
