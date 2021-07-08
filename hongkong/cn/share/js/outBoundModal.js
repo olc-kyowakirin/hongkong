@@ -62,14 +62,14 @@ $(function () {
             },
             {
                 hostname: 'www.kyowakirin.com',
-                pathname: '/hongkong/our_products/*',
+                pathname: '/hongkong/cn/our_products/*',
                 type: 'type51'
             },
         ];
         var modalTmp = '<div class="box-modal-outbound"><div class="box-modal-inner"><div class="modal-tmp"></div><button class="btn-modal-close" type="button"><span class="radius"><span>Close</span></span></button></div>';
         var modalContentTmp = {
             // External Links
-            type01: '<div class="box-text"><p>You will be accessing an external site.</p><p>Click "OK" to continue.</p></div><div class="align-c"><a href="{{href}}" target="_blank" class="btn-03 btn-small">OK<img src="/hongkong/share/images/icon_link_blank_04.png" alt="Open in new window" class="icon-blank"></a></div>',
+            type01: '<div class="box-text"><p>你將被轉往外部網站.</p><p>點擊“確定”繼續。</p></div><div class="align-c"><a href="{{href}}" target="_blank" class="btn-03 btn-small">確定<img src="/hongkong/share/images/icon_link_blank_04.png" alt="Open in new window" class="icon-blank"></a></div>',
 
             //President message
             type02: '<div class="box-text"><p><em>Président</em></p><p>Fabienne Delaplace-Lavoix</p><p><em>Pour toute déclaration d’effet indésirable, contactez</em></p><p>pvfrance@kyowakirin.com</p><p><em>Pour toute demande d’information médicale, contactez</em></p><p>Infomed-FR@kyowakirin.com</p></div><div class="box-text mb-0"><p>Kyowa Kirin Pharma est certifié pour son activité d’information par démarchage ou prospection visant à la promotion des médicaments.</p><p>Pour toute appréciation sur la qualité de notre information promotionnelle, contactez pharmaceutique-fr@kyowakirin.com.</p></div>',
@@ -95,8 +95,8 @@ $(function () {
             // tw
             type11: '<div class="box-offices-globalarea"><div class="box-offices-globalarea-outer"><div class="box-inner"><div class="box-panel"><!--Taiwan --><a href="https://www.kyowakirin.com/tw/index.html" target="_blank" class="panel outBoundModalLink"><div class="box-thumb"><img src="images/index_img_regionalnetwork_panel_taiwan_01.jpg" alt=""></div><div class="box-content"><h3 class="title"><span class="sub">TAIWAN</span>Kyowa Kirin Taiwan Co., Ltd.</h3><p class="box-text">9th floor, No. 68, Section 2<br>Zhongshan North Road, Zhongshan District<br>Taipei City, Taiwan 10448<br><br>富邦中山大樓9F<br>中山北路二段68號</p><p class="link-icon link-text"><span>Visit website</span></p></div><!-- /.panel Taiwan--></a><!-- /.box-panel --></div><!-- /.box-inner --></div><!-- /.box-offices-globalarea-outer --></div>',
 
-            // Disclaimer links popup  EN
-            type51: '<div class="box-text"><p class="text-lead">The information contained in this section is intended for healthcare professionals only. Please confirm you are a healthcare professional.</p></div><div class="align-c"><a href="{{href}}" class="btn-03 btn-large">Yes, I am a healthcare professional</a><br/><br/><a class="btn-03 btn-large">No, I am not a healthcare professional</a></div>',
+            // Disclaimer links popup CN
+            type51: '<div class="box-text"><p class="text-lead">以下資訊僅供專業醫護人員參考。請確認閣下是否專業醫護人員？</p></div><div class="align-c"><a href="{{href}}" class="btn-03 btn-large">是，本人確認為專業醫護人員， 並已查閱及同意接受本網站之使用條款及私隱政策內容。</a><br/><br/><a class="btn-03 btn-large">否，本人並不是專業醫護人員。</a></div>',
 
 
         };
