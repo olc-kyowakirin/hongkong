@@ -5,6 +5,7 @@
 <meta property="og:description" content="Kyowa Kirin Hong Kong Co., Limited, Unit B, 13/F., 169 Electric Road, North Point, Hong Kong">
 <partial src="../includes/header-title.html"/>
 <link rel="canonical" href="https://www.kyowakirin.com/hongkong/contact_us/index.html">
+<link rel="alternate" hreflang="zh-hant" href="https://www.kyowakirin.com/hongkong/cn/contact_us/index.html">
 <partial src="../includes/header-end.html"/>
 
 <div class="box-hdg-wrapper type-05 kkc-anime_load_other-mainvisual contact-us-01">

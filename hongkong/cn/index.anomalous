@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="zh-hant">
 <partial src="includes/header-start.html"/>
 <title>協和麒麟香港</title>
 <meta name="description" content="Kyowa Kirin Hong Kong is a Japan-based Global Specialty Pharmaceutical Company that develops innovative specialty drugs, to raise the health and well-being of people around the world. Since our beginnings to the year 2002, we have focused on sales and marketing functions in Mainland China. From 2003, we commenced sales activities in Hong Kong and Macau.">
@@ -6,7 +8,6 @@
 <partial src="includes/header-title.html"/>
 <link rel="canonical" href="https://www.kyowakirin.com/hongkong/index.html">
 <partial src="includes/header-end.html"/>
-
 
 <div class="box-mainvisual-top kkc-anime_load_top-mainvisual_arrow">
 <div class="box-hdg-wrapper type-03 kkc-anime_load_other-mainvisual homepage-header">
@@ -49,7 +50,7 @@
 <p class="title"><span>總經理的話<span class="icon icon-modal">open</span></span></p>
 <!-- /.box-content --></div>
 <div class="box-image">
-<img src="../images/index_img_gm_message_01.jpg" alt="Get to Know Us">
+<img src="../images/index_img_gm_message_01.jpg" alt="了解我們">
 <!-- /.box-image --></div>
 <!-- /.tile --></div>
 <div class="pc-hide tile size-m box-movie-modal-wrapper kkc-anime_scroll_common_fade-in-bottom">
@@ -57,10 +58,9 @@
 <p class="title"><span>總經理的話<span class="icon icon-modal">open</span></span></p>
 <!-- /.box-content --></div>
 <div class="box-image">
-<img src="../images/index_img_gm_message_01.jpg" alt="Get to Know Us">
+<img src="../images/index_img_gm_message_01.jpg" alt="了解我們">
 <!-- /.box-image --></div>
-<!-- /.tile --></div>
-</a>
+<!-- /.tile --></div></a>
 <div class="box-modal-content" id="modal-message">
 <div class="box-inner">
 <div class="box-content-02">
@@ -116,23 +116,23 @@
 <div class="box-corevalue-wrapper">
 <div class="box-inner kkc-anime_scroll_top-beans_parent kkc-anime_state_show" data-trigger="beans" data-fade-point-pc="bottom:50px">
 <a href="#modal-corevalue" class="kkc-anime_scroll_common_fade-in btn-modalopen parts-feature parts-commitment kkc-anime_state_show kkc-anime_state_animation-end">
-<img src="images/index_img_corevalue_01.png" class="sp-hide" alt="Commitment to Life For us, innovation does not just mean growth. It means doing everything we can to improve the quality of life for people around the world. READ THE FULL MISSION STATEMENT show content">
-<img src="images/index_img_corevalue_01_sp.png" class="pc-hide" alt="Commitment to Life For us, innovation does not just mean growth. It means doing everything we can to improve the quality of life for people around the world. READ THE FULL MISSION STATEMENT show content">
+<img src="images/index_img_corevalue_01.png" class="sp-hide" alt="Commitment to Life 要為地球上最寶貴的生命努力工作！要為患者、患者的護理人員、醫務工作者、以及客戶創造價值！我們的任務">
+<img src="images/index_img_corevalue_01_sp.png" class="pc-hide" alt="Commitment to Life 要為地球上最寶貴的生命努力工作！要為患者、患者的護理人員、醫務工作者、以及客戶創造價值！我們的任務">
 </a>
 <button type="button" class="kkc-anime_trigger_top-beans_child-1 kkc-anime_scroll_top-beans_fade-in parts-feature parts-innovation kkc-anime_state_show kkc-anime_state_ignition kkc-anime_state_animation-end" data-trigger-name="beans">
 <img src="images/index_img_corevalue_02.png" class="sp-hide parts-feature-before" alt="Innovation show content" style="">
-<img src="images/index_img_corevalue_05.png" class="parts-feature-after minimum" alt="Innovation Transform lives with passion and excitement. Challenge the status quo in all of our work. close content" style="display: none;">
-<img src="images/index_img_corevalue_02_sp.png" class="pc-hide" alt="Innovation Transform lives with passion and excitement. Challenge the status quo in all of our work.">
+<img src="images/index_img_corevalue_05.png" class="parts-feature-after minimum" alt="Innovation 要滿懷熱情，滿心期待地去創造新生活！ 對於所有業務，不要滿足於維持現狀，而要勇於挑戰！" style="display: none;">
+<img src="images/index_img_corevalue_02_sp.png" class="pc-hide" alt="Innovation 要滿懷熱情，滿心期待地去創造新生活！ 對於所有業務，不要滿足於維持現狀，而要勇於挑戰！">
 </button>
 <button type="button" class="kkc-anime_trigger_top-beans_child-2 kkc-anime_scroll_top-beans_fade-in parts-feature parts-integrity kkc-anime_state_show kkc-anime_state_ignition kkc-anime_state_animation-end" data-trigger-name="beans">
 <img src="images/index_img_corevalue_03.png" class="sp-hide parts-feature-before" alt="Integrity show content" style="">
-<img src="images/index_img_corevalue_06.png" class="parts-feature-after minimum" alt="Integrity Do the right things. Be sincere and ethical consistently Make a better world through good business practices.  close content" style="display: none;">
-<img src="images/index_img_corevalue_03_sp.png" class="pc-hide" alt="Integrity Do the right things. Be sincere and ethical consistently. Make a better world through good business practices.">
+<img src="images/index_img_corevalue_06.png" class="parts-feature-after minimum" alt="Integrity 要做正確的事！要堅守誠信，做有道德的人！ 要通過公平的企業運營，建立一個更好的世界！" style="display: none;">
+<img src="images/index_img_corevalue_03_sp.png" class="pc-hide" alt="Integrity 要做正確的事！要堅守誠信，做有道德的人！ 要通過公平的企業運營，建立一個更好的世界！">
 </button>
 <button type="button" class="kkc-anime_trigger_top-beans_child-3 kkc-anime_scroll_top-beans_fade-in parts-feature parts-temwork kkc-anime_state_ignition kkc-anime_state_show kkc-anime_state_animation-end" data-trigger-name="beans">
 <img src="images/index_img_corevalue_04.png" class="sp-hide parts-feature-before" alt="Teamwork/Wa show content">
-<img src="images/index_img_corevalue_07.png" class="parts-feature-after" alt="Teamwork/Wa One for all, all for one. Work in diverse teams and respect each other. Go beyond boundaries and collaborate with stakeholders. close content">
-<img src="images/index_img_corevalue_04_sp.png" class="pc-hide" alt="Teamwork/Wa One for all, all for one. Work in diverse teams and respect each other. Go beyond boundaries and collaborate with stakeholders.">
+<img src="images/index_img_corevalue_07.png" class="parts-feature-after" alt="Teamwork/Wa 我為人人，人人為我！我們在一個多元化的團隊工作，要做到相互尊重！不拘泥於組織框架，還要與利益相關者攜手合作！">
+<img src="images/index_img_corevalue_04_sp.png" class="pc-hide" alt="Teamwork/Wa 我為人人，人人為我！我們在一個多元化的團隊工作，要做到相互尊重！不拘泥於組織框架，還要與利益相關者攜手合作！">
 </button>
 <!-- /.box-inner --></div>
 <!-- /.box-corevalue-wrapper --></div>
@@ -186,7 +186,7 @@
 <div class="box-hdg2-wrapper" id="anc-area-of-focus">
 <h2 class="hdg-lv2-02">重點領域</h2>
 <div class="area-focus-inner">
-  <p class="title">以抗體工程技術為重心的尖端生物技術</p><br/>
+<p class="title">以抗體工程技術為重心的尖端生物技術</p><br/>
 <!-- /.area-focus-inner --></div>
 <p class="text-lead">我們致力於創新的藥物研發和全球商業化，在最先進的抗體技術的推動下，為全球人類健康和福祉做出貢獻，其核心治療領域包括：腎臟病學、腫瘤學，免疫學和中樞神經系統。</p>
 <br/>

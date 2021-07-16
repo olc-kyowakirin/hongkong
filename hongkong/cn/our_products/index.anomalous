@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="zh-hant">
 <partial src="../includes/header-start.html"/>
 <title>我們的產品 - 協和麒麟香港</title>
 <meta name="robots" content="noindex">
@@ -9,7 +11,7 @@
 <div class="image">
 <img src="/hongkong/images/index_bg_mainsection_01.png" alt="">
 <!-- /.image --></div>
-<!-- /.image --></div>
+<!-- /.box-hdg-wrapper --></div>
 <div class="str-section-wrapper first-section our-products-01">
 <div class="str-section str-section-boxed-700px">
 <div class="box-hdg2-wrapper" id="our-products">
@@ -21,7 +23,6 @@
 <div class="str-section-wrapper our-products-08">
 <div class="str-section str-section-boxed-700px str-section-spacing">
 <div class="box-hdg2-wrapper">
-
 <div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-crysvita" >
 <div class="box-content">
 <h3 class="hdg-lv2-05">CRYSVITA® (Burosumab)</h3>
@@ -33,7 +34,6 @@
 <img src="images/index_img_logo_crysvita.jpg" alt="CRYSVITA®">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
-
 <div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-lumicef">
 <div class="box-content">
 <h3 class="hdg-lv2-05">LUMICEF® (Brodalumab)</h3>
@@ -45,7 +45,6 @@
 <img src="images/index_img_logo_lumicef.jpg" alt="LUMICEF®">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
-
 <div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-espo">
 <div class="box-content">
 <h3 class="hdg-lv2-05">NESP® (Darbepoetin alfa)</h3>
@@ -57,7 +56,6 @@
 <img src="images/index_img_logo_espo.jpg" alt="NESP®">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
-
 <div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-pecfent">
 <div class="box-content">
 <h3 class="hdg-lv2-05">PECFENT® (Fentanyl)</h3>
@@ -69,7 +67,6 @@
 <img src="images/index_img_logo_pecfent.jpg" alt="PECFENT®">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
-
 <div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-regpara">
 <div class="box-content">
 <h3 class="hdg-lv2-05">REGPARA® (Cinacalcet Hydrochloride)</h3>
@@ -81,7 +78,6 @@
 <img src="images/index_img_logo_regpara.jpg" alt="REGPARA®">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
-
 <div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-romiplate">
 <div class="box-content">
 <h3 class="hdg-lv2-05">ROMIPLATE® (Romiplostim)</h3>
@@ -93,7 +89,6 @@
 <img src="images/index_img_logo_romiplate.jpg" alt="ROMIPLATE®">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
-
 <div class="box-layout-image layout-left box-layout-image-post-list" id="anc-product-sancuso">
 <div class="box-content">
 <h3 class="hdg-lv2-05">SANCUSO® (Granisetron Transdermal System)</h3>
@@ -105,13 +100,7 @@
 <img src="images/index_img_logo_sancuso.jpg" alt="SANCUSO®">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
-
-
-
-
-
 <!-- /.box-hdg2-wrapper --></div>
 <!-- /.str-section --></div>
 <!-- /.str-section-wrapper --></div>
-
 <partial src="../includes/footer.html"/>
