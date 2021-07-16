@@ -2,9 +2,9 @@
 <html lang="zh-hant">
 <partial src="../includes/header-start.html"/>
 <title>治療領域 - 協和麒麟香港</title>
-<meta name="description" content="Kyowa Kirin strives to develop effective therapies for our patients within our areas of focus through a combination of a unique balance between technology and innovation into our drug development and discovery.">
+<meta name="description" content="協和麒麟將技術與創新之間的獨特平衡結合到我們的藥物開發和發現中，並致力於在我們關注的領域為患者開發有效的療法。">
 <meta property="og:title" content="治療領域 - 協和麒麟香港">
-<meta property="og:description" content="Kyowa Kirin strives to develop effective therapies for our patients within our areas of focus through a combination of a unique balance between technology and innovation into our drug development and discovery.">
+<meta property="og:description" content="協和麒麟將技術與創新之間的獨特平衡結合到我們的藥物開發和發現中，並致力於在我們關注的領域為患者開發有效的療法。">
 <partial src="../includes/header-title.html"/>
 <link rel="canonical" href="https://www.kyowakirin.com/hongkong/therapeutic_areas/index.html">
 <partial src="../includes/header-end.html"/>
