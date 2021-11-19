@@ -2200,4 +2200,14 @@
             $inNumberItem.toggleClass('paused');
         });
     }());
+
+    /* expand module */
+    (function () {
+      $(".expand-wraper .expand-link").on("click",function(){
+        $(".expand-wraper").toggleClass("closed");
+        $(".expand-wraper").toggleClass("open");
+      });
+    }());
+
+
 }());

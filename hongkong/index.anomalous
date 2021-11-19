@@ -97,12 +97,32 @@
 <!-- /.str-section-wrapper --></div>
 
 <div id="anc-our-vision" class="str-section-wrapper first-section about-us-1">
+<div class="expand-wraper closed">
 <div class="str-section str-section-boxed-800px">
 <div class="box-hdg2-wrapper">
 <h1 class="hdg-lv2-02">Our Vision</h1>
-<p class="text-lead">As a Japan-based Global Specialty Pharmaceutical Company, Kyowa Kirin Hong Kong is dedicated towards our patient health and wellbeing worldwide. We leverage on innovative drug discovery and global commercialisation, driven by state-of-the-art antibody technologies mainly in the core therapeutic areas of Oncology, Nephrology, Immunology & Allergy, and Central Nervous System.</p>
+<div class="box-text">
+<p class="text-lead">Kyowa Kirin will realize the successful creation and delivery of life-changing value that ultimately make people smile, as a Japan-based Global Specialty Pharmaceutical company built on the diverse team of experts with shared passion for innovation. <span class="expand-link" ></span></p>
+<!-- /.box-text --></div>
 <!-- /.box-hdg2-wrapper --></div>
 <!-- /.str-section --></div>
+<div class="expand-content">
+<div class="str-section str-section-boxed">
+<div class="box-hdg2-wrapper">
+<div class="box-text">
+<p class="text-lead text-left bullet-text">We are focused on developing medicines for diseases where there is a clear patient need for new options. We make full use of multiple therapeutic modalities, including biotechnology such as antibody technology, and beyond, building on our Kyowa Kirin established strengths.</p>
+<!-- /.box-text --></div>
+<div class="box-text">
+<p class="text-lead text-left bullet-text">We will meet the needs of patients and society by providing value across the entire patient care pathway, delivering cutting-edge science and technology, grounded in our in-depth pharmaceutical knowledge and expertise.</p>
+<!-- /.box-text --></div>
+<div class="box-text">
+<p class="text-lead text-left bullet-text">We pursue world-class product quality and operational excellence to grow our business in ways which build long-term trust with our stakeholders.</p>
+<!-- /.box-text --></div>
+
+<!-- /.box-hdg2-wrapper --></div>
+<!-- /.str-section --></div>
+<!-- /.expand-content --></div>
+<!-- /.expand-wraper --></div>
 <!-- /.str-section-wrapper --></div>
 
 <div id="anc-our-philosophy" class="str-section-wrapper first-section about-us-1">

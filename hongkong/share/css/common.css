@@ -11922,3 +11922,14 @@ xx.box-hdg-wrapper.type-05 .box-hdg-container{
   background-position: right center;
 }
 .menu-lang.lang-last{}
+
+/* expand module css */
+.expand-wraper.closed .expand-content{ display:none;}
+.expand-wraper.open .expand-content{ display:block;}
+.expand-wraper .expand-link{ border: 2px solid; width: 20px; height: 20px; border-radius: 50%; display: inline-block; color: #ea5504; vertical-align: middle; }
+.expand-wraper .expand-link::after{ text-align: center; width: 20px; display: inline-block; vertical-align: middle; height: 20px; font-size: 20px;}
+.expand-wraper.closed .expand-link::after{ content:"+"; margin-top: -15.5px; margin-left: -2px;}
+.expand-wraper.open .expand-link::after{ content:"-"; margin-top: -17.5px; margin-left: -2px;}
+
+/* bullet point */
+.bullet-text::before{ display: inline-block; content: "\2022"; color: #ea5504; margin-right: 5px; font-size: 150%; }
