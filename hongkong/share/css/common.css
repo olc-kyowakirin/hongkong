@@ -11928,16 +11928,10 @@ xx.box-hdg-wrapper.type-05 .box-hdg-container{
 .expand-wraper .expand-content{ transition: opacity 1s ease-out; }
 .expand-wraper.closed .expand-content { opacity: 0; height: 0; overflow: hidden; }
 .expand-wraper.open .expand-content { opacity: 1; height: auto; }
-.expand-wraper .expand-link{
-  width: 20px;
-height: 20px;
-position: absolute;
-margin-top: 3px;
-margin-left: 3px;
-/*width: 20px; height: 20px; display: inline-block;*/
-}
+.expand-wraper .expand-link{ width: 20px; height: 20px; position: absolute; margin-top: 3px; margin-left: 3px; }
 .expand-wraper.closed .expand-link { background-image: url("/hongkong/share/images/plus-icon.png"); }
 .expand-wraper.open .expand-link  { background-image: url("/hongkong/share/images/minus-icon.png"); }
 
 /* bullet point */
-.bullet-text::before{ display: inline-block; content: "\2022"; color: #ea5504; margin-right: 5px; font-size: 150%; }
+.bullet-text{ padding-left:1em; }
+.bullet-text::before { content: "\2022"; color: #ea5504; font-size: 150%; position: absolute; margin-left: -0.7em; margin-top: 4px; }
