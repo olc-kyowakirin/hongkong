@@ -11936,3 +11936,6 @@ xx.box-hdg-wrapper.type-05 .box-hdg-container{
 /* bullet point */
 .bullet-text{ padding-left:1em; }
 .bullet-text::before { content: "\2022"; color: #ea5504; font-size: 170%; position: absolute; margin-left: -0.7em; margin-top: 4px; }
+@media screen and (max-width: 768px) {
+   .bullet-text::before { margin-top: -6px !important; }
+}
