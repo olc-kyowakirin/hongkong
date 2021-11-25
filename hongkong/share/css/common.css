@@ -11931,6 +11931,7 @@ xx.box-hdg-wrapper.type-05 .box-hdg-container{
 .expand-wraper .expand-link{ width: 20px; height: 20px; position: absolute; margin-top: 3px; margin-left: 3px; }
 .expand-wraper.closed .expand-link { background-image: url("/hongkong/share/images/plus-icon.png"); }
 .expand-wraper.open .expand-link  { background-image: url("/hongkong/share/images/minus-icon.png"); }
+.expand-wraper.closed .expand-content .bullet-text::before { display:none; }
 
 /* bullet point */
 .bullet-text{ padding-left:1em; }
