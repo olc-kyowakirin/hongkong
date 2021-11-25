@@ -96,13 +96,29 @@
 
 <div id="anc-our-vision" class="str-section-wrapper first-section about-us-1">
 <div class="str-section str-section-boxed-700px">
+<div class="expand-wraper closed">
 <div class="box-hdg2-wrapper">
 <h1 class="hdg-lv2-02">我們的願景</h1>
-<p class="text-lead">作为一家起源日本的全球专业制药公司，协和麒麟集团将凭借对创新的热情和多元化个性的团队力量，持续创造Life-changing的价值，为面临疾病的人们带去笑颜。</p>
-<p class="text-lead">- 不断挑战抗体技术的创新的同时，发挥协和麒麟集团的优势，运用多种模式研发药物，致力于没有有效疗法的疾病的治疗。</p>
-<p class="text-lead">- 运用在医药领域储备的疾病知识，应用最尖端的科学与技术，努力满足药品需求之外的社会医疗需求。</p>
-<p class="text-lead">- 坚持追求世界级的高品质产品和开展卓越的经营运作，赢得社会各方的信赖，实现可持续发展。</p>
+<div class="box-text">
+<p class="text-lead">作为一家起源日本的全球专业制药公司，协和麒麟集团将凭借对创新的热情和多元化个性的团队力量，持续创造Life-changing的价值，为面临疾病的人们带来笑颜。 <span class="expand-link" ></span></p>
+<!-- /.box-text --></div>
 <!-- /.box-hdg2-wrapper --></div>
+<div class="expand-content">
+<div class="str-section str-section-boxed">
+<div class="box-hdg2-wrapper">
+<div class="box-text">
+<p class="text-lead text-left bullet-text">不断挑战抗体技术的创新的同时，发挥协和麒麟集团的优势，运用多种模式研发药物，致力于没有有效疗法的疾病的治疗。</p>
+<!-- /.box-text --></div>
+<div class="box-text">
+<p class="text-lead text-left bullet-text">运用在医药领域储备的疾病知识，应用最尖端的科学与技术，努力满足药品需求之外的社会医疗需求。</p>
+<!-- /.box-text --></div>
+<div class="box-text">
+<p class="text-lead text-left bullet-text">坚持追求世界级的高品质产品和开展卓越的经营运作，赢得社会各方的信赖，实现可持续发展。</p>
+<!-- /.box-text --></div>
+<!-- /.box-hdg2-wrapper --></div>
+<!-- /.str-section --></div>
+<!-- /.expand-content --></div>
+<!-- /.expand-wraper --></div>
 <!-- /.str-section --></div>
 <!-- /.str-section-wrapper --></div>
 
