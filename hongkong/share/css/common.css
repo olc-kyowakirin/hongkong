@@ -11429,17 +11429,17 @@ footer .footer-area-sub p.footer-copy {
 .box-hdg-wrapper.type-05 .box-hdg-container{
   position: absolute;
   z-index: 2;
-  top: 37%;
+  top: 15%;
   width: 100%;
   display:block;
   margin:auto;
   right: 0;
   left: 0;
-  max-width:1200px;
+  max-width:700px;
 }
 @media only screen and (min-width: 1024px) {
 .box-hdg-wrapper.type-05 .box-hdg-container{
-  top: 35%;
+  top: 20%;
 }
 }
 
